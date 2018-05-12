@@ -4,7 +4,7 @@
       <slider :slides="page_data.top"></slider>
       <div class="announcement">
         <label>快讯</label>
-        <span>今日上架的图书全部8折</span>
+        <span>今日上架的图书全部9折</span>
       </div>
     </div>
     <div class="section">
