@@ -9,7 +9,7 @@
     </div>
     <div class="section">
       <book-list :books="page_data.promotions"
-                 heading="最新更新"
+                 heading="最新更新2"
                  @select="preview($event)">
       </book-list>
     </div>
